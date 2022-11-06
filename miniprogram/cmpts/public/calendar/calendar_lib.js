@@ -1,5 +1,5 @@
 /**
- * Notes: 日历组件通用方法
+ * Note s: 日历组件通用方法
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux@qq.com
  * Date: 2021-01-01 07:48:00 
  */
